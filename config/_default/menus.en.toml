@@ -11,24 +11,34 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "About"
+  pageRef = "about_me"
+  weight = 20
+
+[[main]]
+  name = "Post"
   pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Blog"
+  pageRef = "blogs"
   weight = 10
 
 [[main]]
-  name = "Parent"
+  name = "Tag"
   weight = 20
 
 [[main]]
-  name = "example sub-menu 1"
-  parent = "Parent"
-  pageRef = "posts"
+  name = "Data analysis"
+  parent = "Tag"
+  pageRef = "data analysis"
   weight = 20
 
 [[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
+  name = "Machine Learning"
+  parent = "Tag"
+  pageRef = "machine mearning"
   weight = 20
 
 [[subnavigation]]
