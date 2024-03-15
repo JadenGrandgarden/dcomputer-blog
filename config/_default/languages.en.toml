@@ -18,7 +18,7 @@ title = "Blowfish"
    image = "../../img/RIN & LEN.png"
 #   headline = "I'm only human"
    bio = "A Data Science and Computer Science"
-#   links = [
+   links = [
      { email = "danganh2000@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -64,4 +64,4 @@ title = "Blowfish"
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+   ]
