@@ -21,11 +21,6 @@
   weight = 20
 
 [[main]]
-  name = "Blog"
-  pageRef = "blogs"
-  weight = 10
-
-[[main]]
   name = "Tag"
   weight = 20
 
